@@ -2,8 +2,7 @@
 layout: page
 title: More Info & Contacts
 permalink: /more-info-and-contacts/
-parent: Data Access
-nav_order: 6
+nav_order: 5
 ---
 
 ## More Information
