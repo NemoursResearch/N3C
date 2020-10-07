@@ -1,0 +1,15 @@
+---
+layout: page
+title: Data Use Request Form
+permalink: /data-use-request-form/
+nav_order: 4
+---
+
+# Data Use Request Form
+
+1. Fill out DUR Project Title, Description, and Rationale for request data tier.
+![DUA Step 1](/assets/images/DUR_Step_1.png)
+2. Add the name of Collaborator/s to your project (optional).
+![DUA Step 2](/assets/images/DUR_Step_2.png)
+3. Attest to DUA, Code of Conduct and Up to date training Security/HSP Upload Letter of Determination for local IRB if requesting LDS.
+![DUA Step 3](/assets/images/DUR_Step_3.png)
