@@ -3,7 +3,7 @@ layout: default
 title: Data Access
 permalink: /data-access/
 has_children: true
-nav_order: 3
+nav_order: 4
 ---
 
 # Data access
@@ -22,4 +22,5 @@ This guide outlines the steps for an investigator to submit a DUR for a new proj
 
 ## Data Access Steps
 Follow the steps below to fulfill all of the requirements necessary to access N3C data.
+
 *New users must start at step #1. Returning users can skip to step #4*

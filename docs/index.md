@@ -16,7 +16,7 @@ On this site you can find general information about the collaborative as well as
 
 ## Organizational Affiliations
 
-This site is intended for members of [Nemours Research](https://apps.nemoursresearch.org/ "Nemours Research Website") and [DE-CTR](https://www.de-ctr.org/ "DE-CTR Accel Website").
+This site is intended for members of [Nemours Research](https://apps.nemoursresearch.org/ "Nemours Research Website"){:target="_blank"} and [DE-CTR](https://www.de-ctr.org/ "DE-CTR Accel Website"){:target="_blank"}.
 
 ## Letter from the NCATS N3C Team
 

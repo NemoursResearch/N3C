@@ -9,9 +9,9 @@ nav_order: 4
 ## Step 4: Submit the Data Use Request (DUR) Form:
 
 When you are ready to propose a project or join an approved project, complete and submit
-the data user request form within the [NCATS N3C Data Enclave](https://auth.ncats.nih.gov/_api/v2/auth/login?redirect_uri=https://auth.ncats.nih.gov/_api/v2/auth/palantir/palantir_unite/saml&client=palantir_unite&tenant=palantir&protocol=saml). We recommend researchers review the DUR ([sample](https://ncats.nih.gov/files/NCATS_N3C_Sample_Data_Use_Request.pdf)) to ensure that you are prepared to provide the requested information.
+the data user request form within the [NCATS N3C Data Enclave](https://auth.ncats.nih.gov/_api/v2/auth/login?redirect_uri=https://auth.ncats.nih.gov/_api/v2/auth/palantir/palantir_unite/saml&client=palantir_unite&tenant=palantir&protocol=saml){:target="_blank"}. We recommend researchers review the DUR ([sample](https://ncats.nih.gov/files/NCATS_N3C_Sample_Data_Use_Request.pdf){:target="_blank"}) to ensure that you are prepared to provide the requested information.
 
-During this process, you will read and attest to the [NCATS N3C Data Use Agreement (DUA)](https://ncats.nih.gov/n3c/resources/data-access) and the [N3C Data User Code of Conduct](https://ncats.nih.gov/n3c/resources/data-user-code-of-conduct). If requesting access to the limited dataset, you will need to upload their institution’s IRB determination letter.
+During this process, you will read and attest to the [NCATS N3C Data Use Agreement](https://ncats.nih.gov/n3c/resources/data-access){:target="_blank"} ([sample DUA](https://ncats.nih.gov/files/NCATS_N3C_Data_Use_Agreement.pdf and the){:target="_blank"}) [N3C Data User Code of Conduct](https://ncats.nih.gov/n3c/resources/data-user-code-of-conduct){:target="_blank"}. If requesting access to the limited dataset, you will need to upload their institution’s IRB determination letter.
 
 ### Draft your Data Use Request Application
 
