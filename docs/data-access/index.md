@@ -20,4 +20,6 @@ This guide outlines the steps for an investigator to submit a DUR for a new proj
 2. Data Access Committee (DAC) Reviews and Approves the research project
 3. Investigators are given access to the analytics workbench
 
-*Returning users can skip to step #4*
+## Data Access Steps
+Follow the steps below to fulfill all of the requirements necessary to access N3C data.
+*New users must start at step #1. Returning users can skip to step #4*

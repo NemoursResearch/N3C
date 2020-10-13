@@ -11,7 +11,7 @@ nav_order: 4
 When you are ready to propose a project or join an approved project, complete and submit
 the data user request form within the [NCATS N3C Data Enclave](https://auth.ncats.nih.gov/_api/v2/auth/login?redirect_uri=https://auth.ncats.nih.gov/_api/v2/auth/palantir/palantir_unite/saml&client=palantir_unite&tenant=palantir&protocol=saml). We recommend researchers review the DUR ([sample](https://ncats.nih.gov/files/NCATS_N3C_Sample_Data_Use_Request.pdf)) to ensure that you are prepared to provide the requested information.
 
-During this process, researchers will read and attest to the [NCATS N3C Data Use Agreement (DUA)](https://ncats.nih.gov/n3c/resources/data-access) and the [N3C Data User Code of Conduct](https://ncats.nih.gov/n3c/resources/data-user-code-of-conduct). If requesting access to the limited dataset, they will need to upload their institution’s IRB determination letter.
+During this process, you will read and attest to the [NCATS N3C Data Use Agreement (DUA)](https://ncats.nih.gov/n3c/resources/data-access) and the [N3C Data User Code of Conduct](https://ncats.nih.gov/n3c/resources/data-user-code-of-conduct). If requesting access to the limited dataset, you will need to upload their institution’s IRB determination letter.
 
 ### Draft your Data Use Request Application
 
@@ -23,7 +23,7 @@ During this process, researchers will read and attest to the [NCATS N3C Data Use
 
 * Project Rationale
   - The project rationale is used by the Data Access Committee, (DAC) to
-assess the level of data/data tier being requested (Limited Data Set (LDS), De-Identified (DeID), or Synthetic. User should describe the minimum necessary level of data needed to conduct research
+assess the level of data/data tier being requested (Limited Data Set (LDS), De-Identified (DeID), or Synthetic. You should describe the minimum necessary level of data needed to conduct research.
 
 | Access Level | Level 1 - Synthetic                                             | Level 2 - Deidentified Data | Level 2b - Deidentified Data               | Level 3 - LDS |
 |:-------------|:--------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:------------------------------------------------------|:-----------------------------------------------------------------------|
