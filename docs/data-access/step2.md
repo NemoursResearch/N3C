@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Step 2: Two Factor Authentication
 
-- [x] NCATS requires two factor authentications for access to the N3C data enclave so before you apply for a DUR downloaded a two-factor authentication app on your smartphone, or tablet
+- [x] NCATS requires two factor authentications for access to the N3C data enclave so before you apply for a DUR downloaded a two-factor authentication app on your smartphone, or tablet.
 
 
   * [DUO](https://duo.com/){:target="_blank"}

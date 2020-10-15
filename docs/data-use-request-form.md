@@ -7,6 +7,7 @@ nav_order: 5
 
 # Data Use Request (DUR) Form
 
+
 __IMPORTANT!__ Read the [checklist](https://covid.cd2h.org/Enclave_Registration_Checklist){:target="_blank"} before starting the Data Use Request (DUR) process
 
 ## Steps

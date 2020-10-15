@@ -34,4 +34,4 @@ assess the level of data/data tier being requested (Limited Data Set (LDS), De-I
 **Data Levels or Tiers**
 
 * IRB Letter of Determination (LDS Only)
-  - If requesting access to the limited dataset, you must upload a PDF copy of your institution’s IRB determination letter for your project
+  - If requesting access to the limited dataset, you must upload a PDF copy of your institution’s IRB determination letter for your project.

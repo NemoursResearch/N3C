@@ -16,6 +16,7 @@ Projects found on that site include:
 * _Examining Associations between Vitamin D Status and COVID-19 Test Results_
 
 ## Joining & inviting people to projects
+*Coming soon!*
 
 ## Publications
 *Coming soon!*
