@@ -8,6 +8,8 @@ nav_order: 4
 
 ## Step 4: Submit the Data Use Request (DUR) Form:
 
+**If you are joining an existing project with a DUR, you may skip this step and move on. If you intend to create a new project, you must follow along with this step to submit a DUR.**
+
 When you are ready to propose a project or join an approved project, complete and submit
 the data user request form within the [NCATS N3C Data Enclave](https://auth.ncats.nih.gov/_api/v2/auth/login?redirect_uri=https://auth.ncats.nih.gov/_api/v2/auth/palantir/palantir_unite/saml&client=palantir_unite&tenant=palantir&protocol=saml){:target="_blank"}. We recommend researchers review the DUR ([sample](https://ncats.nih.gov/files/NCATS_N3C_Sample_Data_Use_Request.pdf){:target="_blank"}) to ensure that you are prepared to provide the requested information.
 
@@ -24,12 +26,6 @@ During this process, you will read and attest to the [NCATS N3C Data Use Agreeme
 * Project Rationale
   - The project rationale is used by the Data Access Committee, (DAC) to
 assess the level of data/data tier being requested (Limited Data Set (LDS), De-Identified (DeID), or Synthetic. You should describe the minimum necessary level of data needed to conduct research.
-
-| Access Level | Level 1 - Synthetic                                             | Level 2 - Deidentified Data | Level 2b - Deidentified Data               | Level 3 - LDS |
-|:-------------|:--------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:------------------------------------------------------|:-----------------------------------------------------------------------|
-| Data Type    | Synthetic Data                                                      | Aggregate Data (ie. summary statistics)                           | HIPPA Safe Harbor                                                  | HIPPA Limited Data Set                                                 |
-| Description  | Computational data derivative statistically resembles original data | Counts and summary statistics representing 10 or more individuals | Data stripped of 18 direct identifiers called out in the HIPPA Privacy Rule | Data that is stripped of all PHI under HIPPA except dates and zip code |
-
 
 **Data Levels or Tiers**
 
