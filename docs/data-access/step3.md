@@ -16,6 +16,7 @@ nav_order: 3
 > * Upon completion of the training, print out your certification for your records.
 
 - [x] Completion date of Human Subjects Research training (LDS or DeID only) (ex. CITI or NIH).
+> *Have most recent date of completion available for N3C records.*
 
 > * [CITI Program](https://about.citiprogram.org/en/homepage/){:target="_blank"}
 > * [NIH](https://grants.nih.gov/policy/humansubjects.htm){:target="_blank"}

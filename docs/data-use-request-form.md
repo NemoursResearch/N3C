@@ -10,6 +10,15 @@ nav_order: 5
 
 __IMPORTANT!__ Read the [checklist](https://covid.cd2h.org/Enclave_Registration_Checklist){:target="_blank"} before starting the Data Use Request (DUR) process
 
+## Data Use Request
+In order to get access to the N3C data investigators need to submit an online application called a Data Use Request or DUR.
+This guide outlines the steps for an investigator to submit a DUR for a new project or submit a DUR to join and existing project.
+
+## Overview of the Data User Request (DUR) Process
+* Investigator submits a Data Use Request.
+* Data Access Committee (DAC) Reviews and Approves the research project
+* Investigators are given access to the analytics workbench
+
 ## Steps
 1. Fill out DUR Project Title, Description, and Rationale for request data tier.
 ![DUA Step 1](https://github.com/NemoursResearch/N3C/blob/gh-pages/assets/images/DUR_Step_1.png?raw=true){:target="_blank"}
