@@ -13,7 +13,7 @@ The NCATS N3C Data Use Agreement is now available, allowing researchers to submi
 
 ## Access Levels
 
-| Access Level | Level 1 - Synthetic | Level 2 - Deidentified Data | Level 2b - Deidentified Data               | Level 3 - LDS |
+| Access Level | Level 1 - Synthetic | Level 2a - Deidentified Data | Level 2b - Deidentified Data               | Level 3 - LDS |
 
 |:-------------|:--------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:------------------------------------------------------|:-----------------------------------------------------------------------|
 
