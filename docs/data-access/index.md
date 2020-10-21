@@ -13,12 +13,9 @@ The NCATS N3C Data Use Agreement is now available, allowing researchers to submi
 
 ## Access Levels
 
-| Access Level | Level 1 - Synthetic | Level 2a - Deidentified Data | Level 2b - Deidentified Data               | Level 3 - LDS |
-
-|:-------------|:--------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:------------------------------------------------------|:-----------------------------------------------------------------------|
-
-| Data Type    | Synthetic Data                                                      | Aggregate Data (ie. summary statistics)                           | HIPPA Safe Harbor                                                  | HIPPA Limited Data Set                                                 |
-
+| Access Level | Level 1 - Synthetic                                                 | Level 2 - De-identified Data                                      | Level 2b - De-identified Data                                               | Level 3 - LDS                                                          |
+|--------------|---------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Data Type    | Synthetic Data                                                      | Aggregate Data (ie. summary statistics)                           | HIPPA Safe Harbor                                                           | HIPPA Limited Data Set                                                 |
 | Description  | Computational data derivative statistically resembles original data | Counts and summary statistics representing 10 or more individuals | Data stripped of 18 direct identifiers called out in the HIPPA Privacy Rule | Data that is stripped of all PHI under HIPPA except dates and zip code |
 
 ## Requirements
