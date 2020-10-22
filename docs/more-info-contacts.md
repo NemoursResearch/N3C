@@ -5,6 +5,14 @@ permalink: /more-info-and-contacts/
 nav_order: 6
 ---
 
+## Tools
+
+Compatible tools for use with the N3C initiative and associated datasets. If you have any questions about the tools listed, please use the contact forms below.
+* Python
+* R
+* SQL
+* Atlas
+
 ## Contact & Help Requests
 
 * __For DE-CTR Members and Nemours Associates in Delaware:__ [BERD Request Form](https://apps.de-ctr.org/dash/apps/biostat){:target="_blank"}
