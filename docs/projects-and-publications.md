@@ -12,7 +12,7 @@ Visit the [N3C Data Enclave Projects page](https://covid.cd2h.org/enclave_projec
 
 Approved projects are shared with the public. Listed below are descriptions of some projects that have been shared on the website:
 
-  <details>
+  <details style="margin-bottom: 20px">
     <summary><strong>Acute Kidney Injury in Pediatric COVID-19 Patients</strong></summary>
     <br>
     <div style="padding-left: 20px">
@@ -23,11 +23,10 @@ Approved projects are shared with the public. Listed below are descriptions of s
       <strong>Accessing Institution: University of Rochester</strong>
     </div>
     <br>
-    <br>
   </details>
 
 
-  <details>
+  <details style="margin-bottom: 20px">
     <summary><strong>Contribution of Race and other Social Determinants of Health to Disparities in Patient Outcomes in COVID-19</strong></summary>
     <br>
     <div style="padding-left: 20px">
@@ -38,11 +37,10 @@ Approved projects are shared with the public. Listed below are descriptions of s
       <strong>Accessing Institution: University of Chicago</strong>
     </div>
     <br>
-    <br>
   </details>
 
 
-  <details>
+  <details style="margin-bottom: 20px">
     <summary><strong>Examining Associations between Vitamin D Status and COVID-19 Test Results</strong></summary>
     <br>
     <div style="padding-left: 20px">
@@ -52,7 +50,6 @@ Approved projects are shared with the public. Listed below are descriptions of s
       <br>
       <strong>Accessing Institution: University of Chicago</strong>
     </div>
-    <br>
     <br>
   </details>
 
