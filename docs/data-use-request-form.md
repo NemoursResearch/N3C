@@ -21,14 +21,14 @@ This guide outlines the steps for an investigator to submit a DUR for a new proj
 
 ## Drafting your DUR Application
 
-**Research Projects Require:**
+**All Research Projects Require:**
 
 * Title
 * Project Description (must be COVID-19 Related)
 * Project Rationale
 > *The project rationale is used by the Data Access Committee, (DAC) to assess the [level of data/data tier](https://nemoursresearch.github.io/N3C/data-access/#access-levels){:target="_blank"} being requested (Limited Data Set (LDS), De-Identified (DeID), or Synthetic. You should describe the minimum necessary level of data needed to conduct research.*
 
-**Data Levels or Tiers**
+**Data Level/Tier Requirements:**
 
 * IRB Letter of Determination (LDS Only)
 > *If requesting access to the [limited dataset](https://nemoursresearch.github.io/N3C/data-access/#access-levels){:target="_blank"}, you must upload a PDF copy of your institution’s IRB determination letter for your project.*
