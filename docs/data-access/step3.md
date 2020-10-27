@@ -18,6 +18,7 @@ nav_order: 3
 - [x] Completion date of Human Subjects Research training (LDS or DeID only).
 {: .fs-5 }
 > *Have most recent date of completion available for N3C records.*
+>
 > Example Human Subjects Research training courses:
 > * [CITI Program](https://about.citiprogram.org/en/homepage/){:target="_blank"}
 > * [NIH](https://grants.nih.gov/policy/humansubjects.htm){:target="_blank"}
