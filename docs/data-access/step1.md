@@ -15,7 +15,7 @@ nav_order: 1
 > 3a. If from University of Delaware or Medical University of South Carolina, log in with your organization account (InCommon).
 > 3b. If from Nemours, Delaware State University or Christiana Care, click the 'Login.gov' button.  Register with a professional email address.
 
-- [x] Confirmation your institution ([see list](https://covid.cd2h.org/node/280){:target="_blank"}) has an executed [Data Use Agreement (DUA)](https://ncats.nih.gov/n3c/resources/data-access){:target="_blank"}.
+- [x] Confirmation your institution ([see list](https://covid.cd2h.org/node/280){:target="_blank"}) has an executed &nbsp;[Data Use Agreement (DUA)](https://ncats.nih.gov/n3c/resources/data-access){:target="_blank"}.
 {: .fs-5 }
-- [x] Acquire an [ORCID ID](https://orcid.org/){:target="_blank"} (free and quick) to assure author attribution.
+- [x] Acquire an &nbsp;[ORCID ID](https://orcid.org/){:target="_blank"} &nbsp;(free and quick) to assure author attribution.
 {: .fs-5 }
