@@ -6,7 +6,8 @@ parent: Data Access
 nav_order: 4
 ---
 
-## Step 4: Submit the Data Use Request (DUR) Form:
+## Step 4: Submit the Data Use Request (DUR) Form
+
 
 **If you are joining an existing project with a DUR, you may skip this step and move on. If you intend to create a new project, you must follow along with this step to submit a DUR.**
 
@@ -15,19 +16,4 @@ the data user request form within the [NCATS N3C Data Enclave](https://auth.ncat
 
 During this process, you will read and attest to the [NCATS N3C Data Use Agreement](https://ncats.nih.gov/n3c/resources/data-access){:target="_blank"} ([sample DUA](https://ncats.nih.gov/files/NCATS_N3C_Data_Use_Agreement.pdf and the){:target="_blank"}) [N3C Data User Code of Conduct](https://ncats.nih.gov/n3c/resources/data-user-code-of-conduct){:target="_blank"}. If requesting access to the limited dataset, you will need to upload their institution’s IRB determination letter.
 
-### Draft your Data Use Request Application
-
-**Research Projects Require:**
-
-* Title
-
-* Project Description (must be COVID-19 Related)
-
-* Project Rationale
-  - The project rationale is used by the Data Access Committee, (DAC) to
-assess the level of data/data tier being requested (Limited Data Set (LDS), De-Identified (DeID), or Synthetic. You should describe the minimum necessary level of data needed to conduct research.
-
-**Data Levels or Tiers**
-
-* IRB Letter of Determination (LDS Only)
-  - If requesting access to the limited dataset, you must upload a PDF copy of your institution’s IRB determination letter for your project.
+**For more information on the Data Use Request and filling out the request form, see the [Data Use Request Form page](https://nemoursresearch.github.io/N3C/data-use-request-form/){:target="_blank"}.**
