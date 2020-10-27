@@ -19,7 +19,7 @@ This guide outlines the steps for an investigator to submit a DUR for a new proj
 * Data Access Committee (DAC) Reviews and Approves the research project
 * Investigators are given access to the analytics workbench
 
-## Drafting your DUR Application
+## Drafting the DUR Application
 
 **All Research Projects Require:**
 

@@ -16,5 +16,5 @@ nav_order: 1
 
 - [x] Confirmation your institution ([see list](https://covid.cd2h.org/node/280){:target="_blank"}) has an executed &nbsp;[Data Use Agreement (DUA)](https://ncats.nih.gov/n3c/resources/data-access){:target="_blank"}.
 {: .fs-5 }
-- [x] Acquire an &nbsp;[ORCID ID](https://orcid.org/){:target="_blank"} &nbsp;(free and quick) to assure author attribution.
+- [x] Acquire an &nbsp;[ORCID ID](https://orcid.org/){:target="_blank"} &nbsp;(free and quick) to assure author attribution if you do not already have one.
 {: .fs-5 }

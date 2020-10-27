@@ -32,6 +32,14 @@ The N3C data includes but is not limited to the following data from electronic h
 
 Data is from individuals who were tested for the coronavirus or who had related symptoms. Also included is data from individuals who were infected with other pathogens such as SARS 1, MERS, and H1N1.
 
+## Tools
+
+Compatible tools for use with the N3C initiative and associated datasets. If you have any questions about the tools listed, please use the contact forms on the [More Info & Contacts](https://nemoursresearch.github.io/N3C/more-info-and-contacts/) page.
+* Python
+* R
+* SQL
+* Atlas
+
 ## Links
 
 * [Official NCATS NC3 Website](https://ncats.nih.gov/n3c){:target="_blank"}
