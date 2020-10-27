@@ -18,7 +18,7 @@ Compatible tools for use with the N3C initiative and associated datasets. If you
 * __For DE-CTR Members and Nemours Associates in Delaware:__ [BERD Request Form](https://apps.de-ctr.org/dash/apps/biostat){:target="_blank"}
 > *Accel account required. If you do not have one, proceed to the link and follow the steps to create a new account.*
 
-* __For Nemours Associates outside of Delaware:__ [Redcap Request Form](https://apps.nemoursresearch.org/redcap/surveys/?s=KREXTXXR73){:target="_blank"}
+* __For Nemours Associates outside of Delaware:__ [REDCap Request Form](https://apps.nemoursresearch.org/redcap/surveys/?s=KREXTXXR73){:target="_blank"}
 
 
 ## More Information
