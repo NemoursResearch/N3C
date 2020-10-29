@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nemours N3C
+title: Nemours/DE-CTR N3C
 description: >- # this means to ignore newlines until "baseurl:"
   This site was developed in association with Nemours Research and DE-CTR
   to provide information about the NIH/NCATS N3C program for members of the
@@ -31,7 +31,7 @@ markdown: kramdown
 
 # Aux links for the upper right navigation
 aux_links:
-  "Nemours N3C GitHub":
+  "Nemours/DE-CTR N3C GitHub":
     - "https://github.com/NemoursResearch/N3C"
 
 # Makes Aux links open in a new tab. Default is false
