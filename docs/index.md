@@ -8,9 +8,9 @@ permalink: /
 nav_order: 1
 ---
 
-# Nemours N3C Documentation
+# Nemours/DE-CTR N3C Documentation
 
-Welcome to the Nemours documentation for the National COVID Cohort Collaborative (N3C).
+Welcome to the Nemours/DE-CTR documentation for the National COVID Cohort Collaborative (N3C).
 
 On this site you can find general information about the collaborative as well as site-specific information on data access and usage.
 
