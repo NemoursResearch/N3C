@@ -10,7 +10,7 @@ nav_order: 3
 ## Example projects
 Visit the [N3C Data Enclave Projects page](https://covid.cd2h.org/enclave_projects){:target="_blank"} to learn more about existing projects.
 
-Approved projects are shared with the public. Listed below are descriptions of some projects that have been shared on the [Data Enclave Projects page](https://covid.cd2h.org/enclave_projects){:target="_blank"}:
+Approved projects are shared with the public. Listed below are descriptions of some projects that have been shared on the [Data Enclave Projects page](https://covid.cd2h.org/enclave_projects){:target="_blank"} (click to expand):
 
   <details style="margin-bottom: 20px">
     <summary><strong>Acute Kidney Injury in Pediatric COVID-19 Patients</strong></summary>
