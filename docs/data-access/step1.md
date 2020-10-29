@@ -18,5 +18,6 @@ nav_order: 1
 {: .fs-5 }
 > *Nemours has completed this requirement.*
 
-- [x] Acquire an &nbsp;[ORCID ID](https://orcid.org/){:target="_blank"} &nbsp;(free and quick) to assure author attribution if you do not already have one.
+- [x] Acquire an ORCID ID (free and quick) to assure author attribution if you do not already have one.
 {: .fs-5 }
+> * [ORCID](https://orcid.org/){:target="_blank"}

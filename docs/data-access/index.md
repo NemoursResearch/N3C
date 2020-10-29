@@ -20,7 +20,8 @@ The NCATS N3C Data Use Agreement is now available, allowing researchers to submi
 | Access Requirements\* | * N3C Registration * N3C Data Enclave account * Data Use Agreement (DUA) executed with NCATS * NIH IT training completion * Approved Data Use Request (DUR)                                                                                                                           | * N3C Registration * N3C Data Enclave account * DUA executed with NCATS * NIH IT training completion * Approved DUR * Human Subjects Research Protection training completion | * N3C Registration * N3C Data Enclave account * DUA executed with NCATS * NIH IT training completion * Approved DUR * Human Subjects Research Protection training completion * Local Human Research Protection Program IRB determination letter |
 
 [Click here to view the original table.](https://covid.cd2h.org/N3C_governance#access_requirements){:target="_blank"}
-\*Data access requirements may change over time.
+
+_\*Data access requirements may change over time._
 
 ## Requirements
 * Institutional Data Use Agreement (DUA) *(Nemours has a DUA in place)*
