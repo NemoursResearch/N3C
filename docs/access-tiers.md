@@ -8,9 +8,9 @@ nav_order: 7
 # Access Tiers
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;width:100%}
-.tg td{border-color:grey;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:grey;border-style:solid;border-width:1px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg  {border-collapse:separate;border-spacing:0;width:100%}
+.tg td{border-bottom-color:rgba(238, 235, 238, 0.5);border-left-color:rgb(92, 89, 98);border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-bottom-color:rgba(238, 235, 238, 0.5);border-left-color:rgb(92, 89, 98);border-style:solid;border-width:1px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .title-col{width:16%}
 .info-col{width:28%}
