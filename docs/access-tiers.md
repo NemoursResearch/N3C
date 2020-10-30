@@ -8,20 +8,20 @@ nav_order: 7
 # Access Tiers
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg  {border-collapse:collapse;border-spacing:0;width:100%}
+.tg td{border-color:grey;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:grey;border-style:solid;border-width:1px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.title-col{width:16%}
+.info-col{width:28%}
 </style>
 <table class="tg">
   <thead>
     <tr>
-      <th class="tg-0pky">Access Level</th>
-      <th class="tg-0pky">Level 1: Synthetic</th>
-      <th class="tg-0pky">Level 2: De-identified</th>
-      <th class="tg-0pky">Level 3: Limited </th>
+      <th class="tg-0pky title-col">Access Level</th>
+      <th class="tg-0pky info-col">Level 1: Synthetic</th>
+      <th class="tg-0pky info-col">Level 2: De-identified</th>
+      <th class="tg-0pky info-col">Level 3: Limited </th>
     </tr>
   </thead>
   <tbody>
@@ -40,14 +40,50 @@ nav_order: 7
           <li>Citizen scientists</li>
         </ul>
       </td>
-      <td class="tg-0pky">Researchers from U.S.-based institutions<br>Researchers from foreign institutions</td>
-      <td class="tg-0pky">Researchers from U.S.-based institutions</td>
+      <td class="tg-0pky">
+        <ul>
+          <li>Researchers from U.S.-based institutions</li>
+          <li>Researchers from foreign institutions</li>
+        </ul>
+      </td>
+      <td class="tg-0pky">
+        <ul>
+          </li>Researchers from U.S.-based institutions</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td class="tg-0pky">Access Requirements</td>
-      <td class="tg-0pky">N3C Registration<br>N3C Data Enclave account<br>Data Use Agreement (DUA) executed with NCATS<br>NIH IT training completion<br>Approved Data Use Request (DUR)</td>
-      <td class="tg-0pky">N3C Registration<br>N3C Data Enclave account<br>DUA executed with NCATS<br>NIH IT training completion<br>Approved DUR<br>Human Subjects Research Protection training completion</td>
-      <td class="tg-0pky">N3C Registration<br>N3C Data Enclave account<br>DUA executed with NCATS<br>NIH IT training completion<br>Approved DUR<br>Human Subjects Research Protection training completion<br>Local Human Research Protection Program IRB determination letter</td>
+      <td class="tg-0pky">
+        <ul>
+          <li>N3C Registration</li>
+          <li>N3C Data Enclave account</li>
+          <li>Data Use Agreement (DUA) executed with NCATS</li>
+          <li>NIH IT training completion</li>
+          <li>Approved Data Use Request (DUR)</li>
+        </ul>
+      </td>
+      <td class="tg-0pky">
+        <ul>
+          <li>N3C Registration</li>
+          <li>N3C Data Enclave account</li>
+          <li>DUA executed with NCATS</li>
+          <li>NIH IT training completion</li>
+          <li>Approved DUR</li>
+          <li>Human Subjects Research Protection training completion</li>
+        </ul>
+      </td>
+      <td class="tg-0pky">
+        <ul>
+          <li>N3C Registration</li>
+          <li>N3C Data Enclave account</li>
+          <li>DUA executed with NCATS</li>
+          <li>NIH IT training completion</li>
+          <li>Approved DUR</li>
+          <li>Human Subjects Research Protection training completion</li>
+          <li>Local Human Research Protection Program IRB determination letter</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
