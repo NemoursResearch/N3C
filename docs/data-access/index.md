@@ -55,7 +55,7 @@ The NCATS N3C Data Use Agreement is now available, allowing researchers to submi
       </td>
     </tr>
     <tr>
-      <td>Access Requirements</td>
+      <td>Access Requirements\*</td>
       <td>
         <ul>
           <li>N3C Registration</li>
@@ -89,10 +89,8 @@ The NCATS N3C Data Use Agreement is now available, allowing researchers to submi
     </tr>
   </tbody>
 </table>
-
+_\*Data access requirements may change over time._ <br />
 [Click here to view the original table.](https://covid.cd2h.org/N3C_governance#access_requirements){:target="_blank"}
-
-_\*Data access requirements may change over time._
 
 ## Requirements
 * Institutional Data Use Agreement (DUA) *(Nemours has a DUA in place)*
