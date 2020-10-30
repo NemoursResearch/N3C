@@ -55,7 +55,7 @@ The NCATS N3C Data Use Agreement is now available, allowing researchers to submi
       </td>
     </tr>
     <tr>
-      <td>Access Requirements\*</td>
+      <td>Access Requirements*</td>
       <td>
         <ul>
           <li>N3C Registration</li>
