@@ -50,7 +50,7 @@ The NCATS N3C Data Use Agreement is now available, allowing researchers to submi
       </td>
       <td>
         <ul>
-          </li>Researchers from U.S.-based institutions</li>
+          <li>Researchers from U.S.-based institutions</li>
         </ul>
       </td>
     </tr>
