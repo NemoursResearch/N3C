@@ -14,6 +14,7 @@ nav_order: 6
 * [Data Partnership & Governance Workstream](https://covid.cd2h.org/N3C_governance){:target="_blank"}
 * Frequently Asked Questions regarding the [N3C program](https://ncats.nih.gov/n3c/about/program-faq){:target="_blank"} & [account registration](https://covid.cd2h.org/FAQs){:target="_blank"}
 * [N3C Forms and Resources](https://ncats.nih.gov/n3c/resources){:target="_blank"}
+* Greater Plains IDeA-CTR Seminar [Video](https://echo360.org/media/61abb402-4478-4a16-9eed-0471894c34d2/public){:target="_blank"} & [Slides](https://docs.google.com/presentation/d/1nlE3siDjFiBGr8qigCsAXDG0HVgXj7MgXAe42sYwKpk/edit#slide=id.g82b3b45e56_0_107){:target="_blank"}
 
 ## Contact & Help Requests
 * __For DE-CTR Members and Nemours Associates in the Delaware Valley:__ [BERD Request Form](https://apps.de-ctr.org/dash/apps/biostat){:target="_blank"}
