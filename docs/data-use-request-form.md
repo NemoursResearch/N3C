@@ -2,7 +2,7 @@
 layout: page
 title: Data Use Request Form
 permalink: /data-use-request-form/
-nav_order: 5
+nav_order: 6
 ---
 
 # Data Use Request (DUR) Form
