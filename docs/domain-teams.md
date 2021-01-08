@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # Domain Teams
-N3C Domain Teams enable researchers with shared interests to analyze data within the N3C Data Enclave and collaborate more efficiently in a team science environment. Visit the [Data Enclave Domain Teams page](https://covid.cd2h.org/domain-teams){:target="_blank"} for more information on the domain teams currently in session as well as information on how to get involved.
+N3C Domain Teams enable researchers with shared interests to analyze data within the N3C Data Enclave and collaborate more efficiently in a team science environment. Teams are comprised of clinical and subject matter experts, statisticians, informaticists and machine learning specialists. Visit the [Data Enclave Domain Teams page](https://covid.cd2h.org/domain-teams){:target="_blank"} for more information on the domain teams currently in session as well as information on how to get involved.
 
 ## Example teams
 
