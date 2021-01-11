@@ -2,7 +2,7 @@
 layout: page
 title: More Info & Contacts
 permalink: /more-info-and-contacts/
-nav_order: 7
+nav_order: 8
 ---
 
 ## More Information
