@@ -57,4 +57,4 @@ Approved projects are shared with the public. Listed below are descriptions of s
 *Coming soon!*
 
 ## Publications
-*Coming soon!*
+* [The National COVID Cohort Collaborative: Clinical Characterization and Early Severity Prediction](https://www.medrxiv.org/content/10.1101/2021.01.12.21249511v3 "N3C Cohort Paper"){:target="_blank"}

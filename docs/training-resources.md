@@ -2,7 +2,7 @@
 layout: page
 title: Training Resources
 permalink: /training-resources/
-nav_order: 7
+nav_order: 6
 ---
 
 # Training Resources
