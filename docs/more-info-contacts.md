@@ -21,6 +21,7 @@ nav_order: 8
 * __For DE-CTR Members and Nemours Associates in the Delaware Valley:__ [BERD Request Form](https://apps.de-ctr.org/dash/apps/biostat){:target="_blank"}
 > *Accel account required. If you do not have one, proceed to the link and follow the steps to create a new account.*
 
-* __For Nemours Associates outside of the Delaware Valley:__ [REDCap Request Form](https://apps.nemoursresearch.org/redcap/surveys/?s=KREXTXXR73){:target="_blank"}
+* __For Nemours Associates outside of the Delaware Valley:__ [REDCap Request Form](https://redcap.nemoursresearch.org/redcap/surveys/?s=KREXTXXR73){:target="_blank"}
 
 ## Website Questions & Suggestions
+* [Contact Form](https://redcap.nemoursresearch.org/redcap/surveys/?s=9H779EJCL7){:target="_blank"}
