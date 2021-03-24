@@ -46,3 +46,4 @@ Compatible tools for use with the N3C initiative and associated datasets. If you
 
 * [Official NCATS NC3 Website](https://ncats.nih.gov/n3c){:target="_blank"}
 * [N3C Data Enclave](https://covid.cd2h.org/){:target="_blank"}
+* [Latest Phenotype Definition](https://github.com/National-COVID-Cohort-Collaborative/Phenotype_Data_Acquisition/wiki/Latest-Phenotype){:target="_blank"}
