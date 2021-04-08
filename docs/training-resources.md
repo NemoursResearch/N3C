@@ -11,7 +11,7 @@ The collaborative has a diverse and growing list of training resources for new a
 ## Orientation Lectures
 The National Center for Data to Health hosted a two lecture orientation series in the beginning of February which is now available on YouTube. These lectures serve as a good starting point for people looking to get involved in N3C research, providing a general overview of the collaborative and working in the Enclave.
 
-These sessions are now hosted bi-weekly for anyone hoping to learn more about the Enclave.
+These sessions are now hosted bi-weekly.
 
 [Register Here](https://covid.cd2h.org/training){:target="_blank" .btn }
 
