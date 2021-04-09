@@ -30,6 +30,7 @@ Visit the [National Center for Data to Health N3C Tutorials page](https://covid.
 * [OMOP Vocabulary 201](https://www.youtube.com/watch?v=apQB4Uon2ak&feature=emb_logo){:target="_blank"}
 * [N3C DUR Appeal](https://www.youtube.com/watch?v=WBeZeWmkgN8&feature=emb_logo){:target="_blank"}
 * [N3C Hashing Demo](https://www.youtube.com/watch?v=WRnm-_I6jpw&feature=emb_logo){:target="_blank"}
+* [Optimizing Performance in the Enclave](https://www.youtube.com/watch?v=Y4prcWgF2Hc){:target="_blank"}
 
 ## Private Enclave Resources (Login Required)
 Once logged in to the [Enclave](https://auth.ncats.nih.gov/_api/v2/auth/login?redirect_uri=https://auth.ncats.nih.gov/_api/v2/auth/palantir/palantir_unite/saml&client=palantir_unite&tenant=palantir&protocol=saml){:target="_blank"}, click on 'Training' in the top right corner for more information & links about the following resources.

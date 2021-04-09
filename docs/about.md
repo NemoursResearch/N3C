@@ -13,6 +13,8 @@ According to their [website](https://ncats.nih.gov/n3c "Website"){:target="_blan
 
 > "The N3C is a partnership among the NCATS-supported Clinical and Translational Science Awards (CTSA) Program hubs and the National Center for Data to Health (CD2H)(link is external), with overall stewardship by NCATS. Collaborators will contribute and use COVID-19 clinical data to answer critical research questions to address the pandemic."
 
+The Enclave now has over one million COVID+ Patients!{: .label }
+
 ## Introductory Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0JPjw1_iRKY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,3 +49,4 @@ Compatible tools for use with the N3C initiative and associated datasets. If you
 * [Official NCATS NC3 Website](https://ncats.nih.gov/n3c){:target="_blank"}
 * [N3C Data Enclave](https://covid.cd2h.org/){:target="_blank"}
 * [Latest Phenotype Definition](https://github.com/National-COVID-Cohort-Collaborative/Phenotype_Data_Acquisition/wiki/Latest-Phenotype){:target="_blank"}
+* [External Datasets](https://covid.cd2h.org/available-datasets){:target="_blank"}
