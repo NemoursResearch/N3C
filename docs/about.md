@@ -33,7 +33,7 @@ The N3C data includes but is not limited to the following data from electronic h
 * Medical conditions
 * Physical measurements
 
-Data is from individuals who were tested for the coronavirus or who had related symptoms. Also included is data from individuals who were infected with other pathogens such as SARS 1, MERS, and H1N1.
+Data is from individuals who were tested for the coronavirus or who had related symptoms.
 
 Visit the [N3C Cohort Exploration Page](https://covid.cd2h.org/dashboard/){:target="_blank"} to start exploring some publicly available cohort data from the Enclave.
 
