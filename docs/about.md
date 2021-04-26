@@ -35,7 +35,7 @@ The N3C data includes but is not limited to the following data from electronic h
 
 Data is from individuals who were tested for the coronavirus or who had related symptoms.
 
-Visit the [N3C Cohort Exploration Page](https://covid.cd2h.org/dashboard/){:target="_blank"} to start exploring some publicly available cohort data from the Enclave.
+Visit the [N3C Cohort Exploration Page](https://covid.cd2h.org/dashboard/){:target="_blank"} and the [N3C Data Discovery Engine](https://discovery.biothings.io/dataset?guide=/guide/n3c/dataset){:target="_blank"} to start exploring some publicly available cohort datasets from the Enclave.
 
 ## Tools
 

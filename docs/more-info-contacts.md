@@ -17,6 +17,7 @@ nav_order: 8
 * [Webinars and Information Sessions](https://covid.cd2h.org/webinars){:target="_blank"}
 * Greater Plains IDeA-CTR Seminar [Video](https://echo360.org/media/61abb402-4478-4a16-9eed-0471894c34d2/public){:target="_blank"} & [Slides](https://docs.google.com/presentation/d/1nlE3siDjFiBGr8qigCsAXDG0HVgXj7MgXAe42sYwKpk/edit#slide=id.g82b3b45e56_0_107){:target="_blank"}
 * [List of Relevant ML Papers and EHR Data](https://github.com/hurcy/awesome-ehr-deeplearning){:target="_blank"}
+* External Dataset Registry: [N3C Data Discovery Engine](https://discovery.biothings.io/dataset?guide=/guide/n3c/dataset){:target="_blank"}
 
 ## Research Contact & Help Requests
 * __For DE-CTR Members and Nemours Associates in the Delaware Valley:__ [BERD Request Form](https://dash.de-ctr.org/consult/submit/berd){:target="_blank"}
