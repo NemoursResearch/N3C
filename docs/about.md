@@ -51,3 +51,4 @@ Compatible tools for use with the N3C initiative and associated datasets. If you
 * [N3C Data Enclave](https://covid.cd2h.org/){:target="_blank"}
 * [Latest Phenotype Definition](https://github.com/National-COVID-Cohort-Collaborative/Phenotype_Data_Acquisition/wiki/Latest-Phenotype){:target="_blank"}
 * [External Datasets](https://covid.cd2h.org/available-datasets){:target="_blank"}
+* [N3C Data Discovery Engine](https://discovery.biothings.io/dataset?guide=/guide/n3c/dataset){:target="_blank"}
