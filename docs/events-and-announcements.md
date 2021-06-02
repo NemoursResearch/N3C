@@ -2,7 +2,7 @@
 layout: page
 title: Events & Announcements
 permalink: /events-and-announcements/
-nav_order: 7
+nav_order: 8
 ---
 
 # Events & Announcements
