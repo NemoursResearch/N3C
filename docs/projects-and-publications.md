@@ -58,3 +58,4 @@ Approved projects are shared with the public. Listed below are descriptions of s
 
 ## Publications
 * [The National COVID Cohort Collaborative: Clinical Characterization and Early Severity Prediction](https://www.medrxiv.org/content/10.1101/2021.01.12.21249511v3 "N3C Cohort Paper"){:target="_blank"}
+* [Outcomes of COVID-19 in Patients With Cancer: Report From the National COVID Cohort Collaborative (N3C)](https://clic-ctsa.org/news/outcomes-covid-19-patients-cancer-report-national-covid-cohort-collaborative-n3c){:target="_blank"}
