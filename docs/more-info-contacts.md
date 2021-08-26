@@ -9,7 +9,7 @@ nav_order: 9
 * [NIH/NCATS N3C Homepage](https://ncats.nih.gov/n3c "NCATS Website"){:target="_blank"}
 * [Applying for Access](https://ncats.nih.gov/n3c/about/applying-for-access){:target="_blank"}
 * [Data Overview](https://ncats.nih.gov/n3c/about/data-overview){:target="_blank"}
-* [N3C Data Enclave registration](https://labs.cd2h.org/registration/){:target="_blank"} & [checklist](https://covid-test.cd2h.org/Enclave_Registration_Checklist){:target="_blank"}
+* [N3C Data Enclave registration](https://labs.cd2h.org/registration/){:target="_blank"}
 * [Enclave Essentials](https://covid.cd2h.org/N3C_data_enclave){:target="_blank"} (scroll to the bottom of the page for Training & Tools)
 * [Data Partnership & Governance Workstream](https://covid.cd2h.org/N3C_governance){:target="_blank"}
 * Frequently Asked Questions regarding the [N3C program](https://ncats.nih.gov/n3c/about/program-faq){:target="_blank"} & [account registration](https://covid.cd2h.org/FAQs){:target="_blank"}
