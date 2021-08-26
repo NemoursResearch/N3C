@@ -46,7 +46,7 @@ The primary elements of a code workbook are:
 * __Transforms__: Code snippets that can take datasets as inputs and utilize approved packages to manipulate data and generate new datasets.
 
 #### N3C Intro to Code Workbook
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=s3Htg_ygAbs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3Htg_ygAbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Efficiency
 Due to the large an growing amount of EHR records in the N3C enclave, users may experience long wait times for operations that require a lot of memory or processing power. As a result, it is important to ensure that methods are constructed with efficiency in mind. For more information about and specific techniques for optimization, check out the training session on [Optimizing Performance in the Enclave](https://www.youtube.com/watch?v=Y4prcWgF2Hc){:target="_blank"}.
