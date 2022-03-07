@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Step 1: Data Access Preparation
 
-- [x] [Register with N3C](https://covid-test.cd2h.org/N3C_data_enclave){:target="_blank"}&nbsp; and request an N3C Data Enclave account (approval 1-3 days).
+- [x] [Register with N3C](https://labs.cd2h.org/registration/){:target="_blank"}&nbsp; and request an N3C Data Enclave account (approval 1-3 days).
 {: .fs-5 }
 > 1. Go to the [Registration Page](https://labs.cd2h.org/registration/){:target="_blank"}.
 > 2. Click on the purple _Click here to Register_ button.
