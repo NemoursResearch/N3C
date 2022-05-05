@@ -62,3 +62,5 @@ To view the current list of N3C publications, click on the 'Publications' tab on
 
 * [The National COVID Cohort Collaborative: Clinical Characterization and Early Severity Prediction](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781923 "N3C Cohort Paper"){:target="_blank"}
 * [Outcomes of COVID-19 in Patients With Cancer: Report From the National COVID Cohort Collaborative (N3C)](https://clic-ctsa.org/news/outcomes-covid-19-patients-cancer-report-national-covid-cohort-collaborative-n3c){:target="_blank"}
+
+For more information about submitting publications for review, visit the [N3C Publication Review page](https://covid.cd2h.org/publication-review "N3C Publication Review"){:target="_blank"}.
